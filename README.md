@@ -77,6 +77,7 @@ brew install terraform
 brew install packer
 brew install kubectl
 brew install hcloud
+packer plugins install github.com/hashicorp/hcloud
 ```
 
 ### 💡 [Do not skip] Creating your kube.tf file and the OpenSUSE MicroOS snapshot
